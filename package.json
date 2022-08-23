@@ -12,5 +12,4 @@
     "hardhat": "^2.10.2"
   }
 }
-"scripts": {
-  "script": "node scripts/run.js"
+
