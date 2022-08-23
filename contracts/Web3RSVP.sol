@@ -72,8 +72,9 @@ contract Web3RSVP {
             deposit,
             eventDataCID
         );
+    }
 
-        function createNewRSVP(bytes32 eventId) external payable {
+    function createNewRSVP(bytes32 eventId) external payable {
         // look up event
         CreateEvent storage myEvent = idToEvent[eventId];
 
