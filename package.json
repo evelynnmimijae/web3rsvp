@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "npx hardhat run scripts/deploy.js --network mumbai"
   },
   "author": "",
   "license": "ISC",
@@ -16,5 +16,4 @@
     "dotenv": "^16.0.1"
   }
 }
-"scripts": {
-  "deploy": "npx hardhat run scripts/deploy.js --network mumbai",
+
