@@ -16,3 +16,5 @@
     "dotenv": "^16.0.1"
   }
 }
+"scripts": {
+  "deploy": "npx hardhat run scripts/deploy.js --network mumbai",
