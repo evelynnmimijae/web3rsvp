@@ -19,3 +19,5 @@ In this repo, you will see:
 - smart contract verification
 
 Tools = Node.js, NPM, Git, GitHub, Solidity, Infura 
+
+For more information on this project and for context on this repository, click this website link https://www.30daysofweb3.xyz/en/curriculum/3-writing-your-smart-contract/0-dapp-overview
